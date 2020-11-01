@@ -1,2 +1,2 @@
 # Algorithms
-Some basic searching and sorting algorithm implementations
+Some basic algorithm implementations.
